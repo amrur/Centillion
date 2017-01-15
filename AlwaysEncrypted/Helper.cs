@@ -1,0 +1,7 @@
+﻿namespace AlwaysEncrypted
+{
+    class Helper
+    {
+
+    }
+}
